@@ -58,7 +58,7 @@ def main():
             messages.append(types.Content(role="user", parts=function_responses))
         else:
             print("Response:\n" + response.text)
-            sys.exit()
+            return
     sys.exit("maximum number of iterations is reached and the model still hasn't produced a final response")
 if __name__ == "__main__":
     main()
