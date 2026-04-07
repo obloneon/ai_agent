@@ -1,4 +1,4 @@
-My attempt at the "Build an AI Agent in Python" course from [boot.dev]([url](https://www.boot.dev/courses/build-ai-agent-python))
+My attempt at ["Build an AI Agent in Python"](https://www.boot.dev/courses/build-ai-agent-python) - A course from [Boot.dev](https://www.boot.dev).
 
 ## What Does the Agent Do?
 The program is a CLI tool that:
